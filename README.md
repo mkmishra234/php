@@ -1,3 +1,3 @@
 # php
 Hi 
-pay payment gateway.
+Payu  payment gateway.
