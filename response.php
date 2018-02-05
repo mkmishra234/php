@@ -9,7 +9,7 @@ $productinfo=$_POST["productinfo"];
 $email=$_POST["email"];
 $salt="eCwWELxi"; //Please change the value with the live salt for production environment
 
-
+     ///testttt
 //Validating the reverse hash
 If (isset($_POST["additionalCharges"])) {
        $additionalCharges=$_POST["additionalCharges"];
